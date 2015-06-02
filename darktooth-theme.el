@@ -18,7 +18,7 @@
 
 (require 'autothemer)
 
-(autothemer-defautotheme
+(autothemer-deftheme
  darktooth "Color theme for Emacs, when soothe and gruvbox collide"
  (;; distinguish between two different display types:
   ;; full-color terminals and everything else
